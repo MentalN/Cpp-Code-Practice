@@ -28,5 +28,4 @@ int main() {
 		cout << "Loop Two B" << endl;
 	}
 
-	system("PAUSE");
 }
